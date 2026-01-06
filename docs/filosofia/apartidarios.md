@@ -38,8 +38,8 @@ Ser apartidário não é fácil. Algumas pessoas interpretam neutralidade como c
 
 Aceitamos essa dificuldade. Preferimos ser criticados pelos dois lados do que ser confiáveis apenas para um.
 
-## Um convite
+## Participe
 
-Convidamos você a usar o Poliz com mente aberta. Veja os dados sobre seus políticos favoritos e sobre aqueles que você não gosta. Compare. Reflita. Talvez descubra que as coisas são mais nuançadas do que parecem.
+Convidamos você a explorar o Poliz com um olhar independente. Analise os dados de quem você apoia e de quem você critica com o mesmo critério. Compare fatos, reflita sobre as trajetórias e tire suas próprias conclusões. Você pode descobrir que a realidade política é muito mais complexa do que os rótulos partidários fazem parecer.
 
 A polarização é um problema coletivo. A solução começa individualmente, com cada pessoa disposta a questionar suas certezas.

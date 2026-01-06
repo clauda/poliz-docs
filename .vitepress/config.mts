@@ -4,14 +4,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Poliz',
   description: 'Tudo é político',
-  appearance: false,
+  appearance: true,
   head: [
     [
       'link',
       {
         rel: 'icon',
         type: 'image/svg+xml',
-        href: '/assets/logo.svg',
+        href: '/logo.svg',
       },
     ],
     [
@@ -24,7 +24,7 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/logo.svg',
+    logo: '/logo.svg',
     nav: [
       {
         text: 'Biblioteca',
@@ -104,9 +104,17 @@ export default defineConfig({
     socialLinks: [
       { icon: 'instagram', link: 'https://instagram.com/poliz.app' }
     ],
-    footer: {
-      copyright: 'Copyright © 2026 Poliz. Todos os direitos reservados.',
+    lastUpdated: {
+      text: 'Atualizado em',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
     },
+    docFooter: {
+      prev: 'Descubra',
+      next: 'Continue lendo... '
+    }
   },
   sitemap: {
     hostname: 'https://sobre.poliz.com.br'

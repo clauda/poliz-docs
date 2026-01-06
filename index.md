@@ -50,10 +50,10 @@ Conheça em detalhes cada funcionalidade: pesquisas de opinião, o jogo "Quem Di
 Saiba como tratamos seus dados, quais são seus direitos e como aplicamos privacidade desde a concepção do projeto.
 
 ### Filosofia
-Entenda nossos valores: por que somos apartidários, qual nossa motivação e o que buscamos transformar.
+Entenda nossos valores: por que [somos apartidários](./docs/filosofia/apartidarios.md), qual nossa motivação e o que buscamos transformar.
 
 ### Contribua
-Descubra como você pode ajudar o projeto, independente da sua área de atuação.
+Descubra como você pode [ajudar o projeto](./docs/contribua/como-colaborar.md), independente da sua área de atuação.
 
 ## Princípios que nos guiam
 
