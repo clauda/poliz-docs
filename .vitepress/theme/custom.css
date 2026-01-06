@@ -1,0 +1,14 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap'); */
+
+:root {
+  --vp-font-family-base: 'Poppins', system-ui, sans-serif;
+  --vp-font-family-headings: 'Poppins', system-ui, sans-serif;
+  --vp-font-family-mono: 'JetBrains Mono', monospace;
+}
+
+.VPSidebarItem.level-1 .item h3.text {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  font-weight: 600;
+}
