@@ -92,6 +92,8 @@ export default defineConfig({
         items: [
           { text: 'Somos Apartidários', link: '/docs/filosofia/apartidarios.md' },
           { text: 'Informar para Transformar', link: '/docs/filosofia/educar.md' },
+          { text: 'Ética', link: '/docs/filosofia/etica.md' },
+          { text: 'Autocrítica', link: '/docs/filosofia/autocritica.md' },
         ],
       },
       {
